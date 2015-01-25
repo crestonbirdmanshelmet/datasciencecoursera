@@ -1,2 +1,2 @@
 # datasciencecoursera
-datascitoolbox - Course Project - Assignment 2
+Data Science Toolbox - Course Project - Assignment 2
